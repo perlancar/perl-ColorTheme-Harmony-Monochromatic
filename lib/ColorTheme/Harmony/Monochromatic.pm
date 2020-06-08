@@ -92,10 +92,7 @@ sub new {
 }
 
 1;
-# ABSTRACT: Create a monochromatic color theme
-
-=head1 DESCRIPTION
-
+# ABSTRACT:
 
 =head1 SEE ALSO
 
