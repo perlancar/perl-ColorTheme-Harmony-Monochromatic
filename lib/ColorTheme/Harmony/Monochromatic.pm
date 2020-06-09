@@ -22,7 +22,7 @@ All the colors in the theme will have the same hue *h*, but different saturation
 
 Example to see on the terminal:
 
-    % show-color-theme-swatch Harmony::Monochromatic -A h=86
+    % show-color-theme-swatch Harmony::Monochromatic=h,86
 
 _
     dynamic => 1,
