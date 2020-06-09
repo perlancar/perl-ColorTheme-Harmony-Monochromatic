@@ -87,7 +87,7 @@ sub new {
         $colors{"color$j"} = Color::RGB::Util::hsv2rgb(sprintf "%d %.4f %.4f", $h, $s, $v);
     }
 
-    $self->{colors} = \%colors;
+    $self->{items} = \%colors;
     $self;
 }
 
