@@ -58,6 +58,12 @@ _
             default => 0.5,
         },
     },
+    examples => [
+        {
+            summary => 'A monochromatic red scheme',
+            args => { h => 0 },
+        },
+    ],
 );
 
 sub new {
